@@ -7,7 +7,8 @@ This project involves data cleaning and transformation on the FIFA 21 Players Da
 2. Tools and Libraries Used
 3. Data Cleaning and Transformation Operations
 4. Results
-5. Project Owner
+5. Data Source
+6. Project Owner
 
 ## Project Objectives
 
@@ -41,6 +42,10 @@ The results of this project include:
 - Obtaining a cleaned and organized version of the FIFA 21 Players Dataset.
 - Making the data available for answering specific questions.
 - Gaining practical experience in data cleaning and transformation skills.
+
+## Data Source
+
+The FIFA 21 Players Dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring?select=fifa21_raw_data.csv%E2%80%8B).
 
 ## Project Owner
 
